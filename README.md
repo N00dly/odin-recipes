@@ -1,0 +1,1 @@
+This is a project provided by the Odin Project. Its main purpose is to help develop my understanding of HTML's role in web development. 
